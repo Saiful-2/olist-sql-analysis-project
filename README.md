@@ -25,6 +25,10 @@ This project uses the following five datasets:
 * `olist_products_dataset.csv`
 * `olist_order_payments_dataset.csv`
 
+## Dataset Source
+
+The dataset used in this project is the Olist Brazilian E-Commerce Public Dataset.
+
 ## Database Schema
 
 The project is built using five related tables:
